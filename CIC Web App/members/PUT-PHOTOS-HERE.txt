@@ -1,0 +1,10 @@
+Save the member photos in this folder with EXACTLY these names (lowercase, .jpg):
+
+programs.jpg       -> Dr. N.S.Shafeer Ahamed (Faculty Coordinator)
+president.jpg      -> Haashim Aslam
+vice-president.jpg -> Mohamed Fahim
+secretary.jpg      -> Syed Noushad
+technical.jpg      -> Mohamed Naeem
+
+Tips: portrait photo, face in the centre, under 200 KB each.
+You can delete this text file before publishing.
